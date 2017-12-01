@@ -3,4 +3,4 @@
 *
 # [AUTOHOTKEY](https://pauljohnsgit.github.io/AutoHotKey/)
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon4
+[logo]: https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg

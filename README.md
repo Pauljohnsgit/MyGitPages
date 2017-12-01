@@ -1,5 +1,5 @@
-# My Github Pages
+# PAUL JOHNS
 
 [GITHUB INFO](https://pauljohnsgit.github.io/Gitinfo/)
 
-[AHK](https://pauljohnsgit.github.io/AHK/)
+[AUTOHOTKEY](https://pauljohnsgit.github.io/AHK/)

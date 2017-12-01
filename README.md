@@ -1,3 +1,3 @@
-# [GITHUB INFO](https://pauljohnsgit.github.io/Gitinfo/)
+# [GITHUB INFO](https://pauljohnsgit.github.io/GitHub-Info/)
 
 # [AUTOHOTKEY](https://pauljohnsgit.github.io/AutoHotKey/)

@@ -1,5 +1,3 @@
-# PAUL JOHNS
-
 
 [GITHUB INFO](https://pauljohnsgit.github.io/Gitinfo/)
 

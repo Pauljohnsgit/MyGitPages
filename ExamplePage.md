@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ======================================================
 # USEFUL LINKS
-## [GITHUBPAGES MARKDOWN PAGES CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## [GITHUB MARKDOWN PAGES CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

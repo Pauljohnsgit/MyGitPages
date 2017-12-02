@@ -9,3 +9,5 @@ Reference-style:
 [logo]: https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg "Logo Title Text 2"
 
 (https://pauljohnsgit.github.io/AutoHotKey/)
+
+[https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg "Logo Title Text 2"](https://pauljohnsgit.github.io/GitHub-Info/)

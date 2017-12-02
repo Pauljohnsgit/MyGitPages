@@ -9,3 +9,5 @@
 [logo]: http://coad.net/blog/images/AutoHotKeyLogo.png "Logo Title Text 3"
 
 # [AUTOHOTKEY](https://pauljohnsgit.github.io/AutoHotKey/)
+
+![Image](http://coad.net/blog/images/AutoHotKeyLogo.png)

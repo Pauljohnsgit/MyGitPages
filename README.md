@@ -4,10 +4,6 @@
 
 # [GITHUB INFO](https://pauljohnsgit.github.io/GitHub-Info/)
 
-![alt text][logo]
-
-[logo]: http://coad.net/blog/images/AutoHotKeyLogo.png "Logo Title Text 3"
-
+![Image](http://coad.net/blog/images/AutoHotKeyLogo.png)
 # [AUTOHOTKEY](https://pauljohnsgit.github.io/AutoHotKey/)
 
-![Image](http://coad.net/blog/images/AutoHotKeyLogo.png)

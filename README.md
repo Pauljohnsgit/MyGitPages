@@ -3,4 +3,4 @@
 *
 # [AUTOHOTKEY](https://pauljohnsgit.github.io/AutoHotKey/)
 
-[logo]: https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg
+[logo]: https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg "Logo Title Text 2"

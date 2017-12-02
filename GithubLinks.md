@@ -1,1 +1,0 @@
-[GITHUBPAGES MARKDOWN PAGES CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

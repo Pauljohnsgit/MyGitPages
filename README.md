@@ -6,4 +6,4 @@
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg "Logo Title Text 2"
+[logo]: (https://edge.alluremedia.com.au/m/l/2016/02/16-logo.jpg) "Logo Title Text 2"

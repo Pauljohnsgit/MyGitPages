@@ -4,4 +4,3 @@
 
 ![Image](http://masteringtyping.com/wp-content/uploads/2016/09/autohotkey-1.png)
 # [AUTOHOTKEY](https://pauljohnsgit.github.io/AutoHotKey/)
-
